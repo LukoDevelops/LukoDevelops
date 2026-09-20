@@ -4,8 +4,9 @@
 
 ### Software developer • Computer science student • Builder of practical tools
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukas-z-8b589523b/)
-[![Location](https://img.shields.io/badge/Toronto%2C%20Canada-111827?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/Toronto%2C+Ontario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukas-z-8b589523b/)
+[![GitHub followers](https://img.shields.io/github/followers/LukoDevelops?style=for-the-badge&logo=github&label=Followers)](https://github.com/LukoDevelops?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=LukoDevelops&style=for-the-badge&color=2563eb)](https://github.com/LukoDevelops)
 
 </div>
 
@@ -15,12 +16,19 @@ I build useful software with a focus on full-stack development, automation, and 
 
 ## Toolbox
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+## GitHub activity
+
+<div align="center">
+
+<a href="https://github.com/LukoDevelops"><img src="https://github-readme-stats.vercel.app/api?username=LukoDevelops&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="LukoDevelops GitHub stats" /></a>
+
+<a href="https://github.com/LukoDevelops"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LukoDevelops&theme=tokyonight&hide_border=true" alt="LukoDevelops contribution streak" /></a>
+
+</div>
 
 ## Current focus
 

@@ -62,9 +62,9 @@ I build useful software with a focus on full-stack development, automation, and 
 
 <table>
 <tr>
-<td width="33%"><strong>Web applications</strong><br />Clear, accessible interfaces and practical full-stack products.</td>
-<td width="33%"><strong>Automation</strong><br />Reliable workflows, APIs, and tools that remove repetitive work.</td>
-<td width="33%"><strong>Creative technology</strong><br />UI/UX, 3D design, and game systems built with curiosity.</td>
+<td width="33%"><strong>Web applications</strong><br />Front-end interfaces, full-stack products, and accessible user experiences.</td>
+<td width="33%"><strong>Automation</strong><br />Back-end services, APIs, integrations, and automation that make work simpler.</td>
+<td width="33%"><strong>Creative technology</strong><br />UI/UX, 3D design, game systems, and experiments that make technology engaging.</td>
 </tr>
 </table>
 
@@ -82,7 +82,7 @@ I’m sharpening my cloud, database, and product-design skills while building sm
 
 ## Selected interests
 
-Web platforms · developer experience · accessible interfaces · 3D design · game systems
+Front-end · back-end · full-stack systems · AI · developer experience · accessible interfaces · 3D design
 
 ## Working principles
 
@@ -92,7 +92,7 @@ Web platforms · developer experience · accessible interfaces · 3D design · g
 
 ## Connect
 
-If you’re building something interesting, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lukas-z-8b589523b/).
+Whether you’d like to connect, collaborate, or simply say hello, you can reach me on [LinkedIn](https://www.linkedin.com/in/lukas-z-8b589523b/) or by [email](mailto:lukodevelops@gmail.com).
 
 
 ![Animated footer wave](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=110&section=footer)

@@ -14,7 +14,6 @@
 
 </div>
 
-![Animated footer wave](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=110&section=footer)
 
 ## About
 
@@ -94,3 +93,6 @@ Web platforms · developer experience · accessible interfaces · 3D design · g
 ## Connect
 
 If you’re building something interesting, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lukas-z-8b589523b/).
+
+
+![Animated footer wave](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=110&section=footer)

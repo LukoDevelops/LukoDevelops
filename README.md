@@ -1,3 +1,5 @@
+![LukoDevelops banner](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=190&section=header&text=LukoDevelops&fontSize=42&fontColor=ffffff&animation=fadeIn)
+
 <div align="center">
 
 # Hi, I'm LukoDevelops 👋
@@ -53,15 +55,37 @@ I build useful software with a focus on full-stack development, automation, and 
 - [MountJournalEnhanced](https://github.com/LukoDevelops/MountJournalEnhanced) — Lua collection interface project
 - [MaxDps](https://github.com/LukoDevelops/MaxDps) — Lua gameplay addon project
 
+## What I build
+
+<table>
+<tr>
+<td width="33%"><strong>Web applications</strong><br />Clear, accessible interfaces and practical full-stack products.</td>
+<td width="33%"><strong>Automation</strong><br />Reliable workflows, APIs, and tools that remove repetitive work.</td>
+<td width="33%"><strong>Creative technology</strong><br />UI/UX, 3D design, and game systems built with curiosity.</td>
+</tr>
+</table>
+
 ## Current focus
 
 - Building web applications and developer tools
 - Designing practical automation and API-driven workflows
 - Growing software, consulting, UI/UX, and game-technology projects
 
+## Currently exploring
+
+![Learning](https://img.shields.io/badge/Learning-Cloud%20architecture-2563EB?style=flat-square&logo=googlecloud&logoColor=white) ![Learning](https://img.shields.io/badge/Learning-Data%20systems-0F766E?style=flat-square&logo=postgresql&logoColor=white) ![Learning](https://img.shields.io/badge/Learning-Product%20design-7C3AED?style=flat-square&logo=figma&logoColor=white)
+
+I’m sharpening my cloud, database, and product-design skills while building small experiments into useful tools.
+
 ## Selected interests
 
 Web platforms · developer experience · accessible interfaces · 3D design · game systems
+
+## Working principles
+
+- Make the useful path obvious.
+- Prefer simple systems that are easy to maintain.
+- Ship, learn, and improve in public.
 
 ## Connect
 

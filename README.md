@@ -31,7 +31,7 @@ I build useful software with a focus on full-stack development, automation, and 
 [![Followers](https://img.shields.io/github/followers/LukoDevelops?style=for-the-badge&logo=github&label=Followers)](https://github.com/LukoDevelops?tab=followers)
 [![Public repositories](https://img.shields.io/badge/Public%20repositories-23-181717?style=for-the-badge&logo=github)](https://github.com/LukoDevelops?tab=repositories)
 [![Stars received](https://img.shields.io/github/stars/LukoDevelops?style=for-the-badge&logo=github&label=Stars%20received)](https://github.com/LukoDevelops?tab=repositories)
-[![Contribution graph](https://img.shields.io/badge/Contribution%20graph-View%20activity-2563EB?style=for-the-badge&logo=github)](https://github.com/LukoDevelops?tab=overview)
+
 
 <br />
 
@@ -49,6 +49,9 @@ I build useful software with a focus on full-stack development, automation, and 
 - [WoW-Pro-Guides](https://github.com/LukoDevelops/WoW-Pro-Guides) — Lua questing and guide project
 - [AllTheThings](https://github.com/LukoDevelops/AllTheThings) — Lua collection-tracking project
 - [Midnight-Routine](https://github.com/LukoDevelops/Midnight-Routine) — Lua addon project
+- [Pawn](https://github.com/LukoDevelops/Pawn) — Lua gear evaluation project
+- [MountJournalEnhanced](https://github.com/LukoDevelops/MountJournalEnhanced) — Lua collection interface project
+- [MaxDps](https://github.com/LukoDevelops/MaxDps) — Lua gameplay addon project
 
 ## Current focus
 

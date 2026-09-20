@@ -31,7 +31,7 @@ I build useful software with a focus on full-stack development, automation, and 
 [![Followers](https://img.shields.io/github/followers/LukoDevelops?style=for-the-badge&logo=github&label=Followers)](https://github.com/LukoDevelops?tab=followers)
 [![Public repositories](https://img.shields.io/badge/Public%20repositories-23-181717?style=for-the-badge&logo=github)](https://github.com/LukoDevelops?tab=repositories)
 [![Stars received](https://img.shields.io/github/stars/LukoDevelops?style=for-the-badge&logo=github&label=Stars%20received)](https://github.com/LukoDevelops?tab=repositories)
-[![Contribution history](https://img.shields.io/badge/Contribution%20history-View%20profile-2563EB?style=for-the-badge&logo=github)](https://github.com/LukoDevelops)
+[![Contribution graph](https://img.shields.io/badge/Contribution%20graph-View%20activity-2563EB?style=for-the-badge&logo=github)](https://github.com/LukoDevelops?tab=overview)
 
 <br />
 
@@ -46,7 +46,9 @@ I build useful software with a focus on full-stack development, automation, and 
 - [MaxDps-Hunter](https://github.com/LukoDevelops/MaxDps-Hunter) — Lua gameplay addon project
 - [litematica](https://github.com/LukoDevelops/litematica) — Java client-side schematic project
 - [ResourceCalculator](https://github.com/LukoDevelops/ResourceCalculator) — Python resource-planning tool
-- [LukoDevelops](https://github.com/LukoDevelops/LukoDevelops) — profile and portfolio README
+- [WoW-Pro-Guides](https://github.com/LukoDevelops/WoW-Pro-Guides) — Lua questing and guide project
+- [AllTheThings](https://github.com/LukoDevelops/AllTheThings) — Lua collection-tracking project
+- [Midnight-Routine](https://github.com/LukoDevelops/Midnight-Routine) — Lua addon project
 
 ## Current focus
 

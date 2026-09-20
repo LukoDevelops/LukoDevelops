@@ -24,11 +24,22 @@ I build useful software with a focus on full-stack development, automation, and 
 
 <div align="center">
 
-<a href="https://github.com/LukoDevelops"><img src="https://github-readme-stats.vercel.app/api?username=LukoDevelops&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="LukoDevelops GitHub stats" /></a>
+[![Followers](https://img.shields.io/github/followers/LukoDevelops?style=for-the-badge&logo=github&label=Followers)](https://github.com/LukoDevelops?tab=followers)
+[![Public repositories](https://img.shields.io/badge/Public%20repositories-23-181717?style=for-the-badge&logo=github)](https://github.com/LukoDevelops?tab=repositories)
+[![Stars](https://img.shields.io/github/stars/LukoDevelops?style=for-the-badge&logo=github&label=Stars)](https://github.com/LukoDevelops?tab=stars)
+[![Contributions](https://img.shields.io/badge/Contributions-98%2B-2563EB?style=for-the-badge&logo=github)](https://github.com/LukoDevelops)
 
-<a href="https://github.com/LukoDevelops"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LukoDevelops&theme=tokyonight&hide_border=true" alt="LukoDevelops contribution streak" /></a>
+<br />
+
+[![Contribution streak](https://github-readme-streak-stats.herokuapp.com/?user=LukoDevelops&theme=tokyonight&hide_border=true)](https://github.com/LukoDevelops)
 
 </div>
+
+## Featured work
+
+- [ResourceCalculator](https://github.com/LukoDevelops/ResourceCalculator) — Python resource-planning tool
+- [litematica](https://github.com/LukoDevelops/litematica) — Java client-side schematic project
+- [hello-world](https://github.com/LukoDevelops/hello-world) — HTML starter project
 
 ## Current focus
 

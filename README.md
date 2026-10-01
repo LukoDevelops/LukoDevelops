@@ -6,8 +6,9 @@
 
 ### Software developer • Computer science student • Builder of practical tools
 
-[![Typing introduction](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=760&lines=Building+useful+software;Designing+clear+user+experiences;Exploring+automation%2C+cloud%2C+and+creative+technology)](https://github.com/LukoDevelops)
+[![Typing introduction](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=760&lines=Building+useful+software;Designing+clear+user+experiences;Exploring+automation%2C+cloud%2C+and+creative+technology)](https://lukodevelops.pages.dev/)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20website-7C3AED?style=for-the-badge)](https://lukodevelops.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukas-z-8b589523b/)
 [![GitHub followers](https://img.shields.io/github/followers/LukoDevelops?style=for-the-badge&logo=github&label=Followers)](https://github.com/LukoDevelops?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=LukoDevelops&style=for-the-badge&color=2563eb)](https://github.com/LukoDevelops)
@@ -91,6 +92,8 @@ Front-end · back-end · full-stack systems · AI · developer experience · acc
 - Ship, learn, and improve in public.
 
 ## Connect
+
+Explore my projects, skills, and background on my [portfolio website](https://lukodevelops.pages.dev/).
 
 Whether you’d like to connect, collaborate, or simply say hello, you can reach me on [LinkedIn](https://www.linkedin.com/in/lukas-z-8b589523b/) or by [email](mailto:lukodevelops@gmail.com).
 
